@@ -1,4 +1,5 @@
 Xebium [![Build Status](https://travis-ci.org/xebia/Xebium.png?branch=master)](https://travis-ci.org/xebia/Xebium)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2FXebium.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2FXebium?ref=badge_shield)
 ======
 [Xebium](http://xebia.github.com/Xebium/) combines the powers of FitNesse and Selenium. Visit the [xebium home page](http://xebia.github.com/Xebium/) for more details and examples.
 
@@ -25,3 +26,7 @@ Have fun!
 
 <hr/>
 PS. For those of you who import Xebium as an Eclipse project, run `mvn eclipse:eclipse` to get your classpath setup right.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2FXebium.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2FXebium?ref=badge_large)
